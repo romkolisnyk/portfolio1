@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2087.6 250">
+  <switch>
+    <g>
+      <style>
+        #wave {
+          transition: 1.6s linear
+        }
+        #wave.active {
+          stroke-dashoffset:0
+        }
+      </style>
+      <path id="wave"
+        d="M82.9 158s50 32 92 32c125 0 97.5-130 218-130s100.5 130 216 130c120.5 0 103-130 220-130s97.5 130 217 130c118.5 0 102-130 225-130 127 0 101.5 130 217 130 118 0 101-130 213-130 117.5 0 101.7 130 216 130 42.5 0 86-38.5 86-38.5"
+        fill="none" stroke="#f7fafe" stroke-width="120" stroke-dasharray="2430" stroke-dashoffset="2490"
+        stroke-linecap="square" />
+    </g>
+  </switch>
+</svg>
